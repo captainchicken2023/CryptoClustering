@@ -65,9 +65,9 @@ Color the graph points with the labels found using K-means.
 Add the "coin_id" column in the hover_cols parameter to identify the cryptocurrency represented by each data point.
 Answer the following question:
 What is the impact of using fewer features to cluster the data using K-Means?
-REWIND
-Recall that you learned how to create composite plots in a previous module. If you need a refresher on how to create these plots, review that module. You can also check Composing PlotsLinks to an external site. in the hvPlot documentation.
 
 Resources
 https://discourse.holoviz.org/t/add-an-extra-field-when-hovering-in-hvplot-scatter/2331
 https://vitalflux.com/pca-explained-variance-concept-python-example/#google_vignette
+https://www.codecademy.com/learn/machine-learning/modules/dspath-clustering/cheatsheet
+https://holoviz.org/tutorial/Composing_Plots.html
