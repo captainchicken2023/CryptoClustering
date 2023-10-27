@@ -69,3 +69,5 @@ REWIND
 Recall that you learned how to create composite plots in a previous module. If you need a refresher on how to create these plots, review that module. You can also check Composing PlotsLinks to an external site. in the hvPlot documentation.
 
 Resources
+https://discourse.holoviz.org/t/add-an-extra-field-when-hovering-in-hvplot-scatter/2331
+https://vitalflux.com/pca-explained-variance-concept-python-example/#google_vignette
